@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://andreap2a.github.io/GameOn/Logo.png" alt="GameOn Logo" width="200">
+  <img src="https://andreap2a.github.io/P3-GameOn/Logo.png" alt="GameOn Logo" width="200">
 
   # GameOn - Landing Page Dynamic
 
@@ -8,7 +8,7 @@
   </p>
 
   <p align="center">
-    <img src="https://andreap2a.github.io/GameOn/mockup.png" alt="Mockup GameOn" width="800">
+    <img src="https://andreap2a.github.io/P3-GameOn/mockup.png" alt="Mockup GameOn" width="800">
   </p>
 
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
