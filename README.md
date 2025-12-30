@@ -21,7 +21,7 @@
 
 ## 📝 Présentation du Projet
 
-**GameOn** est une PME spécialisée dans les conférences et les concours de jeux vidéo. Ce projet, réalisé dans le cadre de ma formation de **Développeur Web chez OpenClassrooms**, consistait à refondre la landing page pour améliorer l'expérience utilisateur et fiabiliser le processus d'inscription.
+**GameOn** est une PME spécialisée dans les conférences et les concours de jeux vidéo. Ce projet, réalisé dans le cadre de ma formation de **Développeur d'application (CDA) JavaScript / React** chez OpenClassrooms, consistait à refondre la landing page pour améliorer l'expérience utilisateur et fiabiliser le processus d'inscription.
 
 L'objectif principal était de passer d'un prototype statique à une interface dynamique et fonctionnelle, en mettant l'accent sur la validation de formulaires en JavaScript.
 
@@ -61,7 +61,7 @@ Pour tester le projet localement :
 
 ## 🎓 Contexte Pédagogique
 
-Ce projet constitue le 4ème jalon de mon parcours Bachelor. Il m'a permis de consolider mes bases en JavaScript et de comprendre l'importance d'une validation côté client robuste pour l'expérience utilisateur.
+Ce projet constitue le 4ème jalon de mon parcours Développeur d'application (CDA) JavaScript / React (Bac+3/+4). Il m'a permis de consolider mes bases en JavaScript et de comprendre l'importance d'une validation côté client robuste pour l'expérience utilisateur.
 
 ## 📬 Contact
 
@@ -70,5 +70,4 @@ Ce projet constitue le 4ème jalon de mon parcours Bachelor. Il m'a permis de co
 - GitHub : [@AndreaP2A](https://github.com/AndreaP2A)
 - Portfolio : [Lien vers mon Portfolio](https://andreap2a.github.io/Portfolio-LMFS/)
 
----
-<p align="center">Projet réalisé avec passion pour le Bachelor Développeur Web.</p>
+
