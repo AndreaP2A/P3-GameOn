@@ -55,9 +55,8 @@ Pour tester le projet localement :
 2. **Ouvrir le projet** :
    Lancez simplement le fichier `index.html` dans votre navigateur préféré.
 
-> 🌐 **Consulter la version en ligne** : [Démo GameOn](`https://andreap2a.github.io/P3-GameOn/`)
-
----
+## 🌐 Aperçu en ligne
+Le projet est accessible en ligne via GitHub Pages : [Démo GameOn](https://andreap2a.github.io/P3-GameOn/index.html)
 
 ## 🎓 Contexte Pédagogique
 
