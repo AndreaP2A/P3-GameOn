@@ -61,7 +61,7 @@ Pour tester le projet localement :
 
 ## 🎓 Contexte Pédagogique
 
-Ce projet constitue le 4ème jalon de mon parcours Développeur d'application (CDA) JavaScript / React (Bac+3/+4). Il m'a permis de consolider mes bases en JavaScript et de comprendre l'importance d'une validation côté client robuste pour l'expérience utilisateur.
+Ce projet constitue le 3ème jalon de mon parcours Développeur d'application (CDA) JavaScript / React (Bac+3/+4). Il m'a permis de consolider mes bases en JavaScript et de comprendre l'importance d'une validation côté client robuste pour l'expérience utilisateur.
 
 ## 📬 Contact
 
