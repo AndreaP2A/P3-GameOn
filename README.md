@@ -1,46 +1,74 @@
 <div align="center">
-  <a href="https://github.com/AndreaP2A/GameOn">
-    <img src="https://andreap2a.github.io/GameOn/Logo.png" alt="Logo">
-  </a>
+  <img src="https://andreap2a.github.io/GameOn/Logo.png" alt="GameOn Logo" width="200">
 
-<h3 align="center">GameOn</h3>
+  # GameOn - Landing Page Dynamic
 
-<p align="center"><img src="https://andreap2a.github.io/GameOn/mockup.png" alt="Mockup GameOn (visuel téléphone et desktop)"></p>
   <p align="center">
-  GameOn est une PME spécialisée dans les conférences et les concours de jeux. Suite à des commentaires utilisateurs négatifs, le site web de GameOn a vu son site web simplifié, notamment sur son accueil et sa section d'inscription aux concours.<br />
-    <br />
+    <strong>Solution d'inscription interactive pour concours de jeux vidéo</strong>
   </p>
+
+  <p align="center">
+    <img src="https://andreap2a.github.io/GameOn/mockup.png" alt="Mockup GameOn" width="800">
+  </p>
+
+  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
+  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/CSS)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 </div>
 
-## Contexte du projet
+---
 
-GameOn est un projet fictif, constituant le 3ème projet pratique dans le cadre du cursus que je suis chez OpenClassrooms. Celui-ci m'a amené à travailler sur :
+## 📝 Présentation du Projet
 
-- une interface responsive pensée avec l'apparition d'une modale en overlay présentant un formulaire puis un message, ainsi qu'une navbar déclinée différement sur mobile (menu dit "hamburger")
-- ma première utilisation de Javascript dans le cadre d'un projet, avec plusieurs buts : rendre le formulaire et la modale en elle-même opérationnels et ajuster le responsive (navbar avec une class attribuée sous condition, modale et message d'erreur VS message de succès...).
-- le respect d'un brief créatif et d'une liste de cinq issues à résoudre.
-- le test manuel de toutes les fonctionnalités apportées avec Javascript.
+**GameOn** est une PME spécialisée dans les conférences et les concours de jeux vidéo. Ce projet, réalisé dans le cadre de ma formation de **Développeur Web chez OpenClassrooms**, consistait à refondre la landing page pour améliorer l'expérience utilisateur et fiabiliser le processus d'inscription.
 
-## Technologies utilisées
+L'objectif principal était de passer d'un prototype statique à une interface dynamique et fonctionnelle, en mettant l'accent sur la validation de formulaires en JavaScript.
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+## ✨ Fonctionnalités Clés
 
-## Test du projet
+- 📱 **Interface Responsive** : Navigation adaptative avec menu "hamburger" pour les terminaux mobiles.
+- 🖼️ **Modale d'Inscription** : Système de fenêtre modale fluide pour l'accès au formulaire.
+- ✅ **Validation de Formulaire Avancée** :
+  - Vérification de la longueur des champs (Prénom/Nom).
+  - Validation du format d'email via RegEx.
+  - Contrôle de la date de naissance (pas de date future).
+  - Validation des boutons radio (choix de la ville) et des cases à cocher (CGU).
+  - Messages d'erreur contextuels et stylisés.
+- 🎉 **Message de Succès** : Confirmation visuelle après validation du formulaire sans rechargement de page.
 
-1. Clonez ce dépôt de code sur votre machine locale.
-2. Ouvrez le fichier `index.html` dans votre navigateur web.
-3. Késako ? Pas le temps ? N'hésitez pas à visiter la version en ligne !
+## 🛠️ Technologies Utilisées
 
-## Site en ligne
+- **HTML5** : Structure sémantique de la page.
+- **CSS3** : Mise en page moderne avec Flexbox et Media Queries pour la réactivité.
+- **JavaScript (Vanilla)** : Logique de validation, gestion du DOM et animations de la modale.
+- **Figma** : Respect rigoureux de la maquette et du brief créatif.
 
-https://andreap2a.github.io/GameOn/index.html
+## 🚀 Installation et Utilisation
 
-## Contact
+Pour tester le projet localement :
 
-andrea.porche2a@gmail.com
+1. **Cloner le dépôt** :
+   ```bash
+   git clone https://github.com/AndreaP2A/GameOn.git
+   ```
+2. **Ouvrir le projet** :
+   Lancez simplement le fichier `index.html` dans votre navigateur préféré.
 
-Lien du repo: [https://github.com/AndreaP2A/GameOn](https://github.com/AndreaP2A/GameOn)
+> 🌐 **Consulter la version en ligne** : [Démo GameOn](https://andreap2a.github.io/GameOn/index.html)
+
+---
+
+## 🎓 Contexte Pédagogique
+
+Ce projet constitue le 4ème jalon de mon parcours Bachelor. Il m'a permis de consolider mes bases en JavaScript et de comprendre l'importance d'une validation côté client robuste pour l'expérience utilisateur.
+
+## 📬 Contact
+
+**Andrea Porché**
+- Email : andrea.porche2a@gmail.com
+- GitHub : [@AndreaP2A](https://github.com/AndreaP2A)
+- Portfolio : [Lien vers mon Portfolio](https://andreap2a.github.io/Portfolio-LMFS/)
+
+---
+<p align="center">Projet réalisé avec passion pour le Bachelor Développeur Web.</p>
